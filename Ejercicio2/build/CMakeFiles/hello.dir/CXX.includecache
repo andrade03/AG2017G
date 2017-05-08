@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juan/Documentos/GuiaAG2017/AG2017/Ejercicio2/main.cpp
+GL/gl.h
+-
+GL/glut.h
+-
+math.h
+-
+
